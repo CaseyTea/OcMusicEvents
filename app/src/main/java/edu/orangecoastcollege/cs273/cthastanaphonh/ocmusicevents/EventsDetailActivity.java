@@ -47,6 +47,11 @@ public class EventsDetailActivity extends AppCompatActivity {
         }
     }
 
+    /**
+     * This function returns user back to the list, by calling finish() to terminate the
+     * eventDetailActivity page
+     * @param v the current view that is loaded
+     */
     protected void goBackToList(View v)
     {
         // Terminates the current activity (terminate the details activity
