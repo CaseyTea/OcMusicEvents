@@ -21,6 +21,7 @@ public class MusicEvent {
     /**
      * The details of upcoming music events.
      */
+    // Can also be created as a JSON file 
     public static String[] details = {
             "October 7\n" +
                     "Friday - 7:00 PM\n" +
